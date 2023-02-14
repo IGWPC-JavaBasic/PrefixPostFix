@@ -25,5 +25,7 @@ public class Main {
         int c = 5;
         int b = (++c) + 10 + (++c) + (c++);
         System.out.println(b);
+
+
     }
 }
